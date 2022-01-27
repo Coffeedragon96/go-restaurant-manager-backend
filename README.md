@@ -19,3 +19,8 @@ Environment variable files will be added soon in future releases
 Finished routes
 Added database connection for mongodb
 Added func for controllers
+
+# Update 3 - Branch | GRMB-02
+
+Added models for almost all entities
+Added few functions for controllers
